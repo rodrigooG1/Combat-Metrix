@@ -2,11 +2,11 @@
  Combat metrix is a website application desiged to asisst you in getting better with characters in injustice 2.
  # Table of Contents
  <!--ts-->
- *[entity relation diagram](#entity-relationship-diagram)
- *[WireFrame Diagrams](#wireframe-diagrams)
- *[UML Diagram](#uml-diagram)
- *[Requirements](#requirements)
- *[Requirements and Test Table](#requirements-and-test-table)
+ * [entity relation diagram](#entity-relationship-diagram)
+ * [WireFrame Diagrams](#wireframe-diagrams)
+ * [UML Diagram](#uml-diagram)
+ * [Requirements](#requirements)
+ * [Requirements and Test Table](#requirements-and-test-table)
  <!--te-->
  ### Entity Relationship Diagram
  
