@@ -3,9 +3,8 @@
  # Table of Contents
  <!--ts-->
  * [entity relation diagram](#entity-relationship-diagram)
- * [WireFrame Diagrams](#wireframe-diagrams)
  * [UML Diagram](#uml-diagram)
- * [Requirements](#requirements)
+ * [User Stories](#user-stories)
  * [Requirements and Test Table](#requirements-and-test-table)
  <!--te-->
  ### Entity Relationship Diagram
@@ -13,19 +12,18 @@
  ![cmerd](https://github.com/rodrigooG1/Combat-Metrix/blob/master/combatmetrixdata/erd.png)
  
  
- ### WireFrame Diagrams
+ ### UML Diagrams
  
  ![cmwfd](https://github.com/rodrigooG1/Combat-Metrix/blob/master/combatmetrixdata/combatmetrix%20homepage.jpg)
  ![cwfd](https://github.com/rodrigooG1/Combat-Metrix/blob/master/combatmetrixdata/_combatmetrix%202ndpage.jpg)
- ### UML Diagram
- 
  ![cwuml](https://github.com/rodrigooG1/Combat-Metrix/blob/master/combatmetrixdata/uml.jpg)
  
- ### Requirements
  
- User stories <br>
-1.0 As a user I need to view all combos so that I know to use a character to the best of its ability. <br>
+ ### User Stories
+  <br>
+1. As a user I need to view all combos so that I know to use a character to the best of its ability. <br>
 2. As a user I need to view character stats such as health points, strength, defense points frame data so that i can properly choose a character for myself.<br>
+3. As an Admin, I need to add characters so I can update database. <br>
 Use- cases <br>
 2.1 when user clicks character image the character page is displayed.<br>
 2.2 when user clicks random combo generator , a random combo for the character will be given. <br>
@@ -33,7 +31,7 @@ Use- cases <br>
  ### Requirements and Test Table
 | Requirements ID | Requirement description                                         | Test Method |
 |-----------------|-----------------------------------------------------------------|-------------|
-| 1.0          | user shall view characters                                      | view        |
+| 1.0             | user shall view characters                                      | view        |
 | 4.1.2           | user shall view combos                                          | view        |
 | 4.2.1           | system shall provide wedpage and UI                             |             |
 | 4.3.1           | software shall automatically populate combos for the characters |             |
